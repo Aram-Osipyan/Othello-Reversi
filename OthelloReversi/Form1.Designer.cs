@@ -707,7 +707,7 @@ namespace OthelloReversi
             this.ClientSize = new System.Drawing.Size(444, 450);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Othello";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
